@@ -12,3 +12,28 @@ body {
 	max-width: 1170px;
 	margin: 0 auto;
 }
+
+.column-features{
+	float:left;
+	width:33%;
+	background-color:gray;
+}
+
+#gallery{
+	clear:both;
+
+.column-about{
+	float: left;
+	width: 25%;
+	background-color:gray;
+}
+
+.quote-mark{
+	clear:both;
+}
+
+.column-footer{
+	background-color:gray;
+	float:left;
+	width:25%;
+}
